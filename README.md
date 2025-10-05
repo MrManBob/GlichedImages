@@ -9,3 +9,4 @@ Outputs 2 files, with 2 different glitched effects.
 # OUTPUT
 
 ![GlitchedImages](stacked.jpg)
+![GlitchedImages](stacked2.jpg)
